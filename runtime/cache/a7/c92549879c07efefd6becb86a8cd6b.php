@@ -1,0 +1,4 @@
+<?php
+//000000001800
+ exit();?>
+think_serialize:a:19:{s:2:"id";i:1;s:7:"user_id";i:1;s:4:"name";s:15:"测试公众号";s:5:"appid";s:18:"wxb8862c9e7cb27654";s:9:"appsecret";s:32:"c280978c74a8749d74b0e504224bdf35";s:9:"origin_id";s:16:"gh_d059d8896214f";s:4:"type";i:1;s:6:"status";i:1;s:11:"valid_token";s:32:"MIL4umO8pWIkfNhvNx01uBDupfUqS7J4";s:12:"valid_status";i:1;s:5:"token";s:32:"gVzaHNIx9RiO40KiXbJScNN2t7SLF2gl";s:14:"encodingaeskey";s:43:"ofVvs4t2lbhQBrzZ2JhFWu7P2q07SHTGmeCfIwHu8pL";s:9:"mp_number";s:6:"demomp";s:4:"desc";s:30:"系统维护中，请稍后。";s:4:"logo";s:0:"";s:6:"qrcode";s:0:"";s:11:"create_time";i:1505629364;s:10:"login_name";N;s:6:"is_use";i:1;}
